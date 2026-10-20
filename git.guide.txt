@@ -1,3 +1,4 @@
 Git Guide (Cillian Drew)
 Command one: git init
-
+It initialises local repo on PC
+ 
