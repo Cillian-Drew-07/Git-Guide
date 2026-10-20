@@ -5,3 +5,6 @@ It initialises local repo on PC
 Command two: git add
 It moves files from the pc to the staging area in prep for a commit
 
+Comand three: git commit
+Git commit moves files from the staging area to the repo
+
