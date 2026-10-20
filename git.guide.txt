@@ -22,3 +22,6 @@ Links the git hub and PC repos
 Command seven: git branch 
 Makes a branch
 
+Command eight: git switch
+Switches branches
+
