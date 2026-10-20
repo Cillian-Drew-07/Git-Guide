@@ -11,3 +11,11 @@ Git commit moves files from the staging area to the repo
 Command four: git status
 Shows status of the branch
 
+
+
+Command five: git log
+Shows all your commits
+
+Command six: git remote
+Links the git hub and PC repos
+
