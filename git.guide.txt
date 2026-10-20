@@ -25,3 +25,8 @@ Makes a branch
 Command eight: git switch
 Switches branches
 
+Command nine: git config list
+Shows a list of all the config settings
+
+
+
