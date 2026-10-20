@@ -2,3 +2,6 @@ Git Guide (Cillian Drew)
 Command one: git init
 It initialises local repo on PC
  
+Command two: git add
+It moves files from the pc to the staging area in prep for a commit
+
