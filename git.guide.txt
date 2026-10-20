@@ -28,5 +28,9 @@ Switches branches
 Command nine: git config list
 Shows a list of all the config settings
 
+Command ten: git push 
+Uploads local repo to remote repo
 
+
+Screenshot of txt file:
 
