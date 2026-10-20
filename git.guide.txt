@@ -19,3 +19,6 @@ Shows all your commits
 Command six: git remote
 Links the git hub and PC repos
 
+Command seven: git branch 
+Makes a branch
+
